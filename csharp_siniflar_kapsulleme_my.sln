@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp_siniflar_kapsulleme_my", "csharp_siniflar_kapsulleme_my\csharp_siniflar_kapsulleme_my.csproj", "{C0E46681-5D95-4D48-9B9F-20AF0CF90B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0E46681-5D95-4D48-9B9F-20AF0CF90B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E46681-5D95-4D48-9B9F-20AF0CF90B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E46681-5D95-4D48-9B9F-20AF0CF90B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E46681-5D95-4D48-9B9F-20AF0CF90B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62024B8B-B818-48D0-9DED-66676DD152EA}
+	EndGlobalSection
+EndGlobal
